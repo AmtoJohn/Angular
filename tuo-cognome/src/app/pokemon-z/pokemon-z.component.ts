@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class PokemonZComponent implements OnInit {
 
   constructor() { }
-
+    nome = "terzo"
   ngOnInit(): void {
   }
 
